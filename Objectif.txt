@@ -1,1 +1,8 @@
-Objectif
+Objectif:
+
+quel est le but de ce site?
+-commercial
+-site d'information
+-site de communication
+
+De la définition de l'objectif découlera la cible.
